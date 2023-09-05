@@ -13,6 +13,4 @@ L'application est le site d'une agence evenementielle.
 
 ## Tests
 - `yarn test`
-# 724events
-# 724events
-# 724events
+ Il s'agissait de corriger les bugs tout en passant les test existants. Il fallait aussi créer 2 nouveaux tests.
