@@ -15,4 +15,4 @@ L'application est le site d'une agence evenementielle.
 - `yarn test`
 
 
-## Il s'agissait de corriger les bugs tout en passant les test existants. Il fallait aussi créer 2 nouveaux tests.
+## Il s'agissait de corriger les bugs tout en passant les tests existants. Il fallait aussi créer 2 nouveaux tests.
